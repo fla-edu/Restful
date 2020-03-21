@@ -1,0 +1,26 @@
+{
+  "name": "restful",
+  "version": "1.0.0",
+  "description": "Restful",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fla-edu/Restful.git"
+  },
+  "author": "Flavio Eduardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fla-edu/Restful/issues"
+  },
+  "homepage": "https://github.com/fla-edu/Restful#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "express-validator": "^5.1.2",
+    "nedb": "^1.8.0"
+  }
+}
